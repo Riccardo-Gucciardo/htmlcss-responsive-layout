@@ -1,0 +1,25 @@
+/* Soluzione qui */
+@media screen and (max-width: 768px) {
+    .quick-notes ul{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        
+    }
+    .quick-notes li{
+        padding-right: 5%;
+        padding-left: 4%;
+    }
+    .social-networks button {
+        padding-right: 8%;
+        padding-left: 8%;
+        
+    }
+    .ads{
+        display: block;
+    }
+
+    
+}
+/* fine tablet media query */
+/* inizio dextop mesia query */
