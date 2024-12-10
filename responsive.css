@@ -67,8 +67,16 @@
     .social-networks .label {
         display: inline;
     }
-    .clearfix{
-        
+    .clearfix img{
+        clear: both;
+        display: table;
+        float: left;
+
+    }
+    footer{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
     }
 
     
