@@ -111,8 +111,9 @@
     }
     footer{
         display: flex;
-        flex-direction: row;
-        justify-content: space-around;
+        flex-direction: center;
+        justify-content: space-between;
+        text-align: left;
     }
 
 }
